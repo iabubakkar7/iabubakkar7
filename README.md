@@ -1,4 +1,4 @@
-![Cover Image](https://www.canva.com/design/DAGMK00f7oU/Cc9D0bSMpOUnIUdcGPsWoQ/edit?utm_content=DAGMK00f7oU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Cover Image](https://github.com/iabubakkar7/iabubakkar7/blob/main/cover.png)
 
 <h1 align="center">Hi 👋, I'm Abubakkar Abdullah</h1>
 <h3 align="center">Aspiring Data Scientist | Turning Data into Stories</h3>
