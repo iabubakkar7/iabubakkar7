@@ -1,7 +1,7 @@
 ![Cover Image](https://github.com/iabubakkar7/iabubakkar7/blob/main/cover.png)
 
 <h1 align="center">Hi 👋, I'm Abubakkar Abdullah</h1>
-<h3 align="center">Aspiring Data Scientist | Turning Data into Stories</h3>
+<h3 align="center">An Aspiring Data Scientist | Turning Data into Stories</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iabubakkar7&label=Profile%20views&color=0e75b6&style=flat" alt="iabubakkar7" /> </p>
 
